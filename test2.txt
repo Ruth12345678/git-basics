@@ -1,1 +1,5 @@
 This is a new text file
+
+Not much, just testing the commit(btw i mean logs, i'm trying to work on precious versions locally)
+
+Revert	 Revert 	Revert 	Revert
