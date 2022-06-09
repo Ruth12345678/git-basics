@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new text file
 
 Not much, just testing the commit(btw i mean logs, i'm trying to work on precious versions locally)
@@ -5,3 +6,6 @@ Not much, just testing the commit(btw i mean logs, i'm trying to work on preciou
 Revert	 Revert 	Revert 	Revert
 
 34567u
+=======
+This is a new text file
+>>>>>>> parent of ecbef01... Revert Test
